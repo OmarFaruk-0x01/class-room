@@ -202,7 +202,7 @@ export const InstructorData = [
     {
         instructor_id: 0,
         name: "Omar Faruque",
-        avatar_url: "/images/i1.jpg",
+        avatar_url: "/images/i1.webp",
         socials: [
             {
                 site: "facebook",
@@ -225,7 +225,7 @@ export const InstructorData = [
     {
         instructor_id: 2,
         name: "Omar Faruque",
-        avatar_url: "/images/i1.jpg",
+        avatar_url: "/images/i1.webp",
         socials: [
             {
                 site: "facebook",
@@ -248,7 +248,7 @@ export const InstructorData = [
     {
         instructor_id: 3,
         name: "Omar Faruque",
-        avatar_url: "/images/i1.jpg",
+        avatar_url: "/images/i1.webp",
         socials: [
             {
                 site: "facebook",
@@ -271,7 +271,7 @@ export const InstructorData = [
     {
         instructor_id: 4,
         name: "Omar Faruque",
-        avatar_url: "/images/i1.jpg",
+        avatar_url: "/images/i1.webp",
         socials: [
             {
                 site: "facebook",
@@ -294,7 +294,7 @@ export const InstructorData = [
     {
         instructor_id: 5,
         name: "Omar Faruque",
-        avatar_url: "/images/i1.jpg",
+        avatar_url: "/images/i1.webp",
         socials: [
             {
                 site: "facebook",
@@ -317,7 +317,7 @@ export const InstructorData = [
     {
         instructor_id: 6,
         name: "Omar Faruque",
-        avatar_url: "/images/i1.jpg",
+        avatar_url: "/images/i1.webp",
         socials: [
             {
                 site: "facebook",
@@ -343,7 +343,7 @@ export const StudentsData = [
     {
         students_id: 0,
         name: "Omar Faruque",
-        avatar_url: "/images/i1.jpg",
+        avatar_url: "/images/i1.webp",
         review: 'Dramatically supply transparent deliverables before backword comp backword comp ',
         cetagory: 'UX/UI Designer',
         rating: 3,
@@ -351,7 +351,7 @@ export const StudentsData = [
     {
         students_id: 2,
         name: "Omar Faruque",
-        avatar_url: "/images/i1.jpg",
+        avatar_url: "/images/i1.webp",
         review: ' Dramatically supply transparent deliverables before backword comp backword comp',
         cetagory: 'UX/UI Designer',
         rating: 5,
@@ -359,7 +359,7 @@ export const StudentsData = [
     {
         students_id: 3,
         name: "Omar Faruque",
-        avatar_url: "/images/i1.jpg",
+        avatar_url: "/images/i1.webp",
         review: ' Dramatically supply transparent deliverables before backword comp backword comp',
         cetagory: 'UX/UI Designer',
         rating: 5,
@@ -367,7 +367,7 @@ export const StudentsData = [
     {
         students_id: 4,
         name: "Omar Faruque",
-        avatar_url: "/images/i1.jpg",
+        avatar_url: "/images/i1.webp",
         review: ' Dramatically supply transparent deliverables before backword comp backword comp',
         cetagory: 'UX/UI Designer',
         rating: 5,
@@ -375,7 +375,7 @@ export const StudentsData = [
     {
         students_id: 5,
         name: "Omar Faruque",
-        avatar_url: "/images/i1.jpg",
+        avatar_url: "/images/i1.webp",
         review: ' Dramatically supply transparent deliverables before backword comp backword comp',
         cetagory: 'UX/UI Designer',
         rating: 5,
@@ -383,7 +383,7 @@ export const StudentsData = [
     {
         students_id: 6,
         name: "Omar Faruque",
-        avatar_url: "/images/i1.jpg",
+        avatar_url: "/images/i1.webp",
         review: ' Dramatically supply transparent deliverables before backword comp backword comp',
         cetagory: 'UX/UI Designer',
         rating: 5,

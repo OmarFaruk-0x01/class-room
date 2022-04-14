@@ -19,7 +19,7 @@ const WhyChooseUs = () => {
                     </div>
                     <p className="font-semibold text-[.7rem] ">Safe & Secure</p>
                 </div>
-                <img src="/images/p3.png" alt="p2"/>
+                <img src="/images/p3.webp" alt="p2"/>
             </div>
             <div className="py-5 sm:p-11 lg:p-0 lg:w-[55%] grid-flow-col xl:w-[40%]">
                 <p className={"font-semibold text-xs text-c_orange sm:text-[.6rem]"}>Why Choose Us</p>

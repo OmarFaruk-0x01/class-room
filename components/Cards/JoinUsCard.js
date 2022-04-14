@@ -5,7 +5,7 @@ export const JoinUsCard = ({
   Disp,
   index
 }) => {
-  return <div id="joinus" data-aos={`slide-${index == 0 ? 'left' : 'right'}`} className="group  shadow-md bg-white p-3 rounded-md hover:shadow-lg transition-all  flex lg:grid grid-cols-2 items-center">
+  return <div id="joinus" data-aos={`slide-${index == 0 ? 'down' : 'up'}`} className="group  shadow-md bg-white p-3 rounded-md hover:shadow-lg transition-all  flex lg:grid grid-cols-2 items-center">
             <div>
                 {Title}
                 {Disp}
